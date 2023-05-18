@@ -1,0 +1,27 @@
+h1
+{
+border:2px solid black;
+width:200px;
+height:80px;
+background-color:green;
+color:white;
+text-align:center;	
+}
+li
+{
+list-style-type:none;	
+border:2px solid black;
+width:100px;
+height:40px;
+background-color:grey;
+color:green;
+text-align:center;
+position:relative;
+left:-40px;
+top:-21px;
+}
+img
+{
+width:1000px;
+height:1000px;	
+}
